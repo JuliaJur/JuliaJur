@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuliaJur
 - 👀 I’m interested in painting and concrete products.
 - 🌱 I’m currently learning to be a software tester
-- 💞️ I’m looking to collaborate for cooperation in testing 
+- 💞️ I am looking for cooperation in testing 
 - 📫 How to reach me yuliyayurevich25@gmail.com
 
 <!---
